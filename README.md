@@ -1,4 +1,5 @@
 # Constrained Coding
+[![Twitch Badge](https://img.shields.io/badge/Twitch-ConstrainedCoding-9147ff)](https://www.twitch.tv/constrainedcoding)
 
 As an experiment I'm going to start streaming some of my open source maintenance. I have a bunch of ideas of types of streams and videos I could make, so here are some goals to help make decisions.
 
