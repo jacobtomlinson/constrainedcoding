@@ -14,6 +14,6 @@ Inspired by the time constraints from the podcasts Under the Radar and Developin
 
 ## Format ideas
 
- - 30 minute maintenance - review issues and pull requests on open source projects
- - 15 minute PR - aim to resolve an issue by raising a PR in under 15 minutes
+ - 30 minute PR - aim to resolve an issue by raising a PR in under 30 minutes
  - 5 minute tuorial - explain a topic in under 5 minutes
+ - Friday Hacks - Hack on a small idea for an hour or two as a Friday treat
