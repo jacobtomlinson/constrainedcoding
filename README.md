@@ -10,7 +10,7 @@ Inspired by the time constraints from the podcasts Under the Radar and Developin
 - Become proficient at making single take instructional videos.
 - Get more people into software development and open source.
 - Promote the open source projects that I work on.
-- Continue building my following, especially on Twitter.
+- Continue growing the OSS communities I'm a part of and also building my following, especially on Twitter.
 
 ## Format ideas
 
