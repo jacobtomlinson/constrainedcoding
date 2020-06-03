@@ -1,5 +1,6 @@
 # Constrained Coding
 [![Twitch Badge](https://img.shields.io/badge/Twitch-ConstrainedCoding-9147ff)](https://www.twitch.tv/constrainedcoding)
+[![Periscope Badge](https://img.shields.io/badge/Periscope-__JacobTomlinson-%2340A4C4)](https://www.pscp.tv/_JacobTomlinson/follow)
 
 As an experiment I'm going to start streaming some of my open source maintenance. I have a bunch of ideas of types of streams and videos I could make, so here are some goals to help make decisions.
 
