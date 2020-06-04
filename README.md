@@ -1,7 +1,7 @@
 # Constrained Coding
-[![Twitch Badge](https://img.shields.io/badge/Twitch-ConstrainedCoding-9147ff)](https://www.twitch.tv/constrainedcoding)
-[![Periscope Badge](https://img.shields.io/badge/Periscope-__JacobTomlinson-%2340A4C4)](https://www.pscp.tv/_JacobTomlinson/follow)
-[![YouTube Badge](https://img.shields.io/badge/YouTube-Jacob%20Tomlinson-FF0000)](https://www.youtube.com/channel/UCjwcSpcyRYsfZMsliAJzYuQ/live)
+[![Twitch Badge](https://img.shields.io/badge/Twitch-ConstrainedCoding-9147ff?logo=twitch&logoColor=white)](https://www.twitch.tv/constrainedcoding)
+[![Periscope Badge](https://img.shields.io/badge/Periscope-__JacobTomlinson-%2340A4C4?logo=periscope&logoColor=white)](https://www.pscp.tv/_JacobTomlinson/follow)
+[![YouTube Badge](https://img.shields.io/badge/YouTube-Jacob%20Tomlinson-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCjwcSpcyRYsfZMsliAJzYuQ/live)
 
 As an experiment I'm going to start streaming some of my open source maintenance. I have a bunch of ideas of types of streams and videos I could make, so here are some goals to help make decisions.
 
