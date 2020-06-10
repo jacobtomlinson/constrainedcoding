@@ -27,11 +27,12 @@ Short term objectives that I want to continuously hit.
 ## Format ideas
 
  - 30 minute PR - Aim to resolve an issue by raising a PR in under 30 minutes. 
-   - Structured stream with time limits and a rigid format.
- - 5 minute tuorial - Explain a topic in under 5 minutes.
-   - More of a video style stream. No chat. Rigid formula. Great for reuse.
+   - Structured stream with time limits and an explicit format but can pause to engage in chat.
  - Half Day Hacks - Hack on a small idea for half a day to see if it has legs. 
    - More of a casual fly on the wall type stream. Lots of chat encouraged.
+ - 5 minute tuorial - Explain a topic in under 5 minutes.
+   - More of a video style stream. No chat. Rigid format. Great for reuse.
+   - Would likely be recorded during other streams as an aside. If a user asks a question in chart we would pause what we are doing, switch to a different scene profile and record a standalone video. Then when that is done we would return to the stream we were doing before.
  
 ## My setup
 
