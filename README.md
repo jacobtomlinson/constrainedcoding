@@ -15,6 +15,7 @@ Long term personal and professional goals that I want to tackle using streaming.
 - Get more people into software development and open source.
 - Promote the open source projects that I work on.
 - Continue growing the OSS communities I'm a part of and also building my following, especially on Twitter.
+- Build rich library of instructional video content.
 
 ## Objectives
 
