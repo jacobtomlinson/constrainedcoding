@@ -9,16 +9,28 @@ Inspired by the time constraints from the podcasts Under the Radar and Developin
 
 ## Goals
 
+Long term personal and professional goals that I want to tackle using streaming.
+
 - Become proficient at making single take instructional videos.
 - Get more people into software development and open source.
 - Promote the open source projects that I work on.
 - Continue growing the OSS communities I'm a part of and also building my following, especially on Twitter.
 
+## Objectives
+
+Short term objectives that I want to continuously hit.
+
+- Stream at least three times a week.
+- Publish stream content as videos on YouTube.
+
 ## Format ideas
 
- - 30 minute PR - aim to resolve an issue by raising a PR in under 30 minutes.
- - 5 minute tuorial - explain a topic in under 5 minutes.
- - Friday Hacks - Hack on a small idea for an hour or two as a Friday treat.
+ - 30 minute PR - Aim to resolve an issue by raising a PR in under 30 minutes. 
+   - Structured stream with time limits and a rigid format.
+ - 5 minute tuorial - Explain a topic in under 5 minutes.
+   - More of a video style stream. No chat. Rigid formula. Great for reuse.
+ - Half Day Hacks - Hack on a small idea for half a day to see if it has legs. 
+   - More of a casual fly on the wall type stream. Lots of chat encouraged.
  
 ## My setup
 
