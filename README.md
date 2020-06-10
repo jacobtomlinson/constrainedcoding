@@ -32,7 +32,7 @@ Short term objectives that I want to continuously hit.
    - More of a casual fly on the wall type stream. Lots of chat encouraged.
  - 5 minute tuorial - Explain a topic in under 5 minutes.
    - More of a video style stream. No chat. Rigid format. Great for reuse.
-   - Would likely be recorded during other streams as an aside. If a user asks a question in chart we would pause what we are doing, switch to a different scene profile and record a standalone video. Then when that is done we would return to the stream we were doing before.
+   - Would likely be recorded during other streams as an aside. If a user asks a question in chat we would pause what we are doing, switch to a different scene profile and record a standalone video. Then when that is done we would return to the stream we were doing before.
  
 ## My setup
 
