@@ -1,0 +1,28 @@
+body {
+  background-color: none;
+  background-color: black;
+  color: white;
+  font-family: "Helvetica Neue";
+
+  text-align: center;
+  margin: auto auto;
+}
+
+h1 {
+  font-size: 100px;
+}
+
+.pulse {
+  opacity: 1;
+  animation: fade 2s linear;
+}
+
+@keyframes fade {
+  0%,
+  100% {
+    opacity: 0;
+  }
+  50% {
+    opacity: 1;
+  }
+}
