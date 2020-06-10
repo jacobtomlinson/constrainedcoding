@@ -39,7 +39,7 @@ const obs = new OBSWebSocket();
 const overlay = new Overlay(obs);
 
 obs
-  .connect({ address: "localhost:4444" })
+  .connect({ address: Cookies.get("websocket") || "localhost:4444" })
   .then(() => {
     obs.send("SetHeartbeat", { enable: false });
     overlay.processMessage({ realm: "overlay", data: { method: "Connected" } });
@@ -48,7 +48,10 @@ obs
     console.log(`${err.error} Unable to connect to OBS websocket.`);
     overlay.processMessage({
       realm: "overlay",
-      data: { method: "Error", error: "Unable to connect to OBS websocket." },
+      data: {
+        method: "WebsocketError",
+        error: "Unable to connect to OBS websocket.",
+      },
     });
   });
 

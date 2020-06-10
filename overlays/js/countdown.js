@@ -47,7 +47,7 @@ overlay.on("Connected", (data) => {
   setTimerText(`Waiting for stream to start`);
 });
 
-overlay.on("Error", (data) => {
+overlay.on("WebsocketError", (data) => {
   setTimerText(data.error);
 });
 

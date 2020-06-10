@@ -9,9 +9,16 @@ overlay.on("Connected", (data) => {
   });
 });
 
-updateTitle = function () {
+document.getElementById("streamTitle").addEventListener("change", () => {
   let title = document.getElementById("streamTitle").value;
   overlay.send("SetTitle", { title: title });
-};
+});
 
-document.getElementById("streamTitle").addEventListener("change", updateTitle);
+overlay.on("WebsocketError", (data) => {
+  let address = window.prompt(
+    "Please enter websocket address",
+    Cookies.get("websocket") || "localhost:4444"
+  );
+  Cookies.set("websocket", address, { sameSite: "lax" });
+  location.reload();
+});
