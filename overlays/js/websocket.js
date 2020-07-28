@@ -62,3 +62,7 @@ obs.on("Heartbeat", (data) => {
 overlay.on("Connected", (data) => {
   console.log("Overlay connected");
 });
+
+overlay.on("Reload", (data) => {
+  location.reload();
+})

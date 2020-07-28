@@ -9,9 +9,14 @@ overlay.on("Connected", (data) => {
   });
 });
 
-document.getElementById("streamTitle").addEventListener("change", () => {
+document.getElementById("streamTitleButton").addEventListener("click", () => {
   let title = document.getElementById("streamTitle").value;
   overlay.send("SetTitle", { title: title });
+  Cookies.set("streamTitle", title, { sameSite: "lax" });
+});
+
+document.getElementById("reloadAllButton").addEventListener("click", () => {
+  overlay.send("Reload", {});
 });
 
 overlay.on("WebsocketError", (data) => {
@@ -21,4 +26,11 @@ overlay.on("WebsocketError", (data) => {
   );
   Cookies.set("websocket", address, { sameSite: "lax" });
   location.reload();
+});
+
+document.addEventListener("DOMContentLoaded", (event) => {
+  let title = Cookies.get("streamTitle");
+  if (title) {
+    document.getElementById("streamTitle").value = title;
+  }
 });
