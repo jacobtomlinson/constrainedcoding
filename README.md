@@ -43,7 +43,8 @@ Here's an overview of my software and hardware setup for streaming. I'm starting
 - MacBook Pro 15 inch 2019
 - External Dell monitor
 - FaceTime HD 720p camera
-- Sony WH-1000XM3 Noise Cancelling Wireless Headphones (for audio and microphone)
+- Sony WH-1000XM3 Noise Cancelling Wireless Headphones
+- MOSOTECH Lavalier Microphone
 - Original Apple Magic Mouse (A1296)
 - Akko 3068 keyboard
 
