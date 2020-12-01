@@ -1,0 +1,1 @@
+Redirected to [https://github.com/jacobtomlinson/advent-of-gpu-code-2020](https://github.com/jacobtomlinson/advent-of-gpu-code-2020).
